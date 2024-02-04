@@ -1,0 +1,660 @@
+.law2 {
+  color: var(--color-snow);
+}
+.thomaslaw2 {
+  margin: 0;
+  height: 40px;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: inherit;
+  display: inline-block;
+  white-space: nowrap;
+}
+.services5 {
+  position: relative;
+  line-height: 17.49px;
+}
+.services4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.pricing2 {
+  position: relative;
+  line-height: 17.49px;
+}
+.our-attorneys-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: var(--color-gray-200);
+}
+.blog2 {
+  position: relative;
+  line-height: 17.49px;
+  color: var(--color-gray-100);
+  cursor: pointer;
+}
+.rectangle-copy3 {
+  height: 40px;
+  width: 96.2px;
+  position: relative;
+  background-color: var(--color-dimgray);
+  display: none;
+}
+.call-now2 {
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 17.49px;
+  font-family: var(--font-nunito-sans);
+  color: var(--white);
+  text-align: center;
+  z-index: 1;
+}
+.footer-light-mode-frame {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) var(--padding-sm) var(--padding-2xs)
+    var(--padding-mini);
+  background-color: var(--color-dimgray);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.footer-light-mode-frame:hover {
+  background-color: var(--color-gray-400);
+}
+.pricing-text,
+.thomas-law-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-lg);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+  font-family: var(--font-nunito-sans);
+}
+.thomas-law-text {
+  align-self: stretch;
+  background-color: var(--color-rosybrown);
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-xs) var(--padding-35xl) var(--padding-smi)
+    var(--padding-46xl);
+  gap: var(--gap-xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-playfair-display-sc);
+}
+.vincentlaw-icon2 {
+  width: 54.4px;
+  height: 17.5px;
+  position: relative;
+  flex-shrink: 0;
+  display: none;
+}
+.our-attorneys {
+  margin: 0;
+  height: 97px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 28.71px;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.loremipsumdolor-text {
+  width: 1164px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-smi);
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.blank-line4,
+.blank-line5,
+.blank-line6,
+.blank-line7,
+.blank-line8,
+.blank-line9,
+.eu-facilisis-orci1,
+.lorem-ipsum-dolor1,
+.ullamcorper-malesuada-integer1 {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container3 {
+  width: 100%;
+}
+.lorem-ipsum-dolor-container2 {
+  height: 1063px;
+  width: 568px;
+  position: relative;
+  line-height: 28.71px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 568px;
+  max-width: 100%;
+}
+.terms-of-service-frame,
+.terms-of-service-frame1,
+.terms-of-service-frame2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.copyright-text {
+  height: 1218px;
+  width: 365px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  gap: var(--gap-23xl);
+  min-width: 365px;
+  max-width: 100%;
+}
+.frame-rectangle-frame,
+.frame-text-vector {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-text-vector {
+  flex: 1;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-rectangle-frame {
+  width: 1154px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 18px 0 0;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  font-size: var(--font-size-3xl-7);
+}
+.shape-icon2 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.shadow-icon2 {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(3.716);
+}
+.wrapper-shadow2 {
+  height: 40px;
+  width: 1099.2px;
+  position: absolute;
+  margin: 0 !important;
+  right: -171.1px;
+  bottom: -12.9px;
+  border-radius: var(--br-11xs);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.subscribe-newsletter3 {
+  margin: 0;
+  height: 36px;
+  width: 145px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.enter-your-email2,
+.subcribe-now2,
+.subscribe-newsletter3 {
+  position: relative;
+  display: inline-block;
+}
+.enter-your-email2 {
+  height: 19px;
+  width: 115.9px;
+  mix-blend-mode: normal;
+}
+.subcribe-now2 {
+  align-self: stretch;
+  width: 61px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-dm-sans);
+  color: var(--white);
+  text-align: center;
+}
+.input-field2,
+.subscribbe-now2 {
+  border-radius: var(--br-9xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  box-sizing: border-box;
+}
+.subscribbe-now2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base);
+  background-color: var(--lift-blue);
+  height: 53px;
+  width: 137px;
+  justify-content: center;
+  z-index: 1;
+}
+.subscribbe-now2:hover {
+  background-color: var(--color-dodgerblue-100);
+}
+.input-field2 {
+  flex: 1;
+  background-color: var(--white);
+  justify-content: space-between;
+  padding: var(--padding-4xs) var(--padding-22xl) var(--padding-4xs)
+    var(--padding-5xl);
+  min-width: 253px;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-helvetica-neue);
+}
+.subscribe-newsletter2,
+.subscribe2,
+.subscribenow-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.subscribe2 {
+  flex: 1;
+  border-radius: 9.99px;
+  background-color: var(--dark);
+  flex-wrap: wrap;
+  align-items: center;
+  padding: var(--padding-45xl) var(--padding-74xl) var(--padding-44xl)
+    var(--padding-73xl);
+  box-sizing: border-box;
+  gap: var(--gap-47xl);
+  z-index: 1;
+}
+.subscribe-newsletter2,
+.subscribenow-button {
+  align-items: flex-start;
+}
+.subscribenow-button {
+  flex: 1;
+  position: relative;
+}
+.subscribe-newsletter2 {
+  width: 1015px;
+  padding: 0 var(--padding-30xl);
+  box-sizing: border-box;
+}
+.about-us2 {
+  height: 21px;
+  width: 69px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.discover2 {
+  width: 107px;
+}
+.books2,
+.discover2,
+.explore2 {
+  height: 21px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+}
+.explore2 {
+  width: 97px;
+  cursor: pointer;
+}
+.books2 {
+  width: 67px;
+}
+.facebook-twitter-vimeo-you-tub {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-57xl);
+  max-width: 100%;
+}
+.facebook-black-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.twitter-black-icon2 {
+  height: 20px;
+  width: 24px;
+  position: relative;
+}
+.vimeo-black-icon2,
+.youtube-black-icon2 {
+  height: 21px;
+  width: 24px;
+  position: relative;
+}
+.youtube-black-icon2 {
+  height: 17px;
+  object-fit: cover;
+}
+.books-frame,
+.line-vector2 {
+  display: flex;
+  flex-direction: row;
+}
+.line-vector2 {
+  width: 216px;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.books-frame {
+  align-self: stretch;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  font-size: var(--font-size-base);
+  color: var(--dark);
+}
+.line-separator-child {
+  width: 1072.3px;
+  position: relative;
+  max-height: 100%;
+  mix-blend-mode: normal;
+  max-width: 100%;
+}
+.line-separator1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.copyright2 {
+  height: 18px;
+  width: 209px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.terms-of-service4,
+.terms-of-service5 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+}
+.terms-of-service4 {
+  flex: 1;
+}
+.terms-of-service5 {
+  width: 92px;
+  display: inline-block;
+}
+.service-terms,
+.terms-info {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.service-terms {
+  height: 18px;
+  width: 232px;
+  justify-content: flex-start;
+  gap: var(--gap-10xl);
+  color: var(--dark);
+}
+.terms-info {
+  width: 699px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.frame-header-aboutus-discover,
+.subscribe-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-header-aboutus-discover {
+  width: 1124px;
+  gap: var(--gap-10xl);
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-600);
+}
+.subscribe-container {
+  width: 1175px;
+  gap: var(--gap-29xl);
+}
+.footer-9-light-mode2,
+.footer-frame {
+  flex-shrink: 0;
+  display: flex;
+  justify-content: flex-start;
+}
+.footer-9-light-mode2 {
+  width: 1439px;
+  background-color: var(--white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  max-width: 101%;
+}
+.footer-frame {
+  align-self: stretch;
+  height: 482px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-9xl);
+  color: var(--white);
+  font-family: var(--font-dm-sans);
+}
+.our-attorneys-frame,
+.square-frame {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.our-attorneys-frame {
+  width: 1439px;
+  overflow-y: auto;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-22xl) 0 0 var(--padding-smi);
+  gap: var(--gap-73xl);
+  max-width: 103%;
+  flex-shrink: 0;
+}
+.square-frame {
+  height: 1305px;
+  width: 1401px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0;
+  max-width: 100%;
+}
+.attorneys,
+.frame-frame {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.frame-frame {
+  overflow-y: auto;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 38px 0 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-nunito-sans);
+}
+.attorneys {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-seashell);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 1009px;
+  gap: 13px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .our-attorneys-frame {
+    padding-top: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .our-attorneys {
+    font-size: var(--font-size-32xl);
+    line-height: 23px;
+  }
+  .copyright-text,
+  .lorem-ipsum-dolor-container2 {
+    flex: 1;
+  }
+  .frame-text-vector {
+    flex-wrap: wrap;
+  }
+  .subscribe2 {
+    gap: var(--gap-47xl);
+    padding-left: var(--padding-27xl);
+    padding-right: var(--padding-27xl);
+    box-sizing: border-box;
+  }
+  .subscribe-newsletter2 {
+    padding-left: var(--padding-5xl);
+    padding-right: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+  .books-frame {
+    flex-wrap: wrap;
+  }
+  .footer-frame {
+    height: auto;
+  }
+  .our-attorneys-frame {
+    padding-top: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .square-frame {
+    height: auto;
+  }
+}
+@media screen and (max-width: 750px) {
+  .pricing-text {
+    display: none;
+  }
+  .thomas-law-text {
+    padding-left: var(--padding-13xl);
+    padding-right: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .copyright-text,
+  .lorem-ipsum-dolor-container2 {
+    min-width: 100%;
+  }
+  .input-field2 {
+    flex-wrap: wrap;
+  }
+  .facebook-twitter-vimeo-you-tub {
+    flex-wrap: wrap;
+    gap: var(--gap-57xl);
+  }
+  .terms-info {
+    flex-wrap: wrap;
+  }
+  .subscribe-container {
+    gap: var(--gap-29xl);
+  }
+  .our-attorneys-frame {
+    gap: var(--gap-73xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .our-attorneys {
+    font-size: var(--font-size-19xl);
+    line-height: 17px;
+  }
+  .lorem-ipsum-dolor-container2 {
+    font-size: var(--font-size-lg);
+    line-height: 23px;
+  }
+  .copyright-text {
+    gap: var(--gap-23xl);
+  }
+  .subscribe-newsletter3 {
+    font-size: var(--font-size-3xl);
+  }
+  .subscribe2 {
+    gap: var(--gap-47xl);
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .facebook-twitter-vimeo-you-tub {
+    gap: var(--gap-57xl);
+  }
+  .our-attorneys-frame {
+    gap: var(--gap-73xl);
+  }
+}

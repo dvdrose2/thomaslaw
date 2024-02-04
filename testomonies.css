@@ -1,0 +1,865 @@
+.law4 {
+  color: var(--color-snow);
+}
+.thomaslaw4 {
+  margin: 0;
+  height: 40px;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: inherit;
+  display: inline-block;
+  white-space: nowrap;
+}
+.services8 {
+  cursor: pointer;
+}
+.blog4,
+.pricing4,
+.services8 {
+  position: relative;
+  line-height: 17.49px;
+}
+.pricing4 {
+  color: var(--color-gray-200);
+  cursor: pointer;
+}
+.blog4 {
+  color: var(--color-gray-100);
+}
+.rectangle-copy5 {
+  height: 40px;
+  width: 96.2px;
+  position: relative;
+  background-color: var(--color-dimgray);
+  display: none;
+}
+.call-now4 {
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 17.49px;
+  font-family: var(--font-nunito-sans);
+  color: var(--white);
+  text-align: center;
+  z-index: 1;
+}
+.rectangle-copy-parent {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) var(--padding-sm) var(--padding-2xs)
+    var(--padding-mini);
+  background-color: var(--color-dimgray);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.rectangle-copy-parent:hover {
+  background-color: var(--color-gray-400);
+}
+.frame-header,
+.services-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-lg);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+  font-family: var(--font-nunito-sans);
+}
+.frame-header {
+  align-self: stretch;
+  background-color: var(--color-rosybrown);
+  overflow-y: auto;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-smi) var(--padding-31xl) var(--padding-xs) 62px;
+  gap: var(--gap-xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-playfair-display-sc);
+}
+.testomonies1 {
+  margin: 0;
+  height: 95px;
+  width: 529px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.testomonies-wrapper {
+  width: 1007px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+  font-size: var(--font-size-45xl);
+}
+.after-my-car {
+  margin: 0;
+  align-self: stretch;
+  height: 364px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.after-my-car-accident-i-was-l-wrapper {
+  width: 725px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+  min-width: 725px;
+  max-width: 100%;
+}
+.sarahmiller-icon {
+  width: 225px;
+  height: 225px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.sarah-miller {
+  margin: 0;
+  align-self: stretch;
+  height: 76px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.sarahmiller-parent {
+  width: 307px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  min-width: 307px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+}
+.frame-shadow,
+.input-field-subscription {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.input-field-subscription {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-shadow {
+  width: 1147px;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-3xs);
+  box-sizing: border-box;
+  min-height: 394px;
+  flex-shrink: 0;
+}
+.the-insurance-company {
+  margin: 0;
+  height: 364px;
+  width: 725px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 725px;
+  max-width: 100%;
+}
+.davidlee-icon {
+  width: 225px;
+  height: 225px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.david-lee {
+  margin: 0;
+  align-self: stretch;
+  height: 76px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.davidlee-parent {
+  width: 307px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xl) 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  min-width: 307px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+}
+.the-insurance-company-tried-to-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.frame-frame-container-inner {
+  width: 1147px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-3xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.the-legal-process {
+  margin: 0;
+  height: 364px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.frame-david-lee {
+  width: 774px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  min-width: 774px;
+  max-width: 100%;
+}
+.davidlee-icon1 {
+  width: 225px;
+  height: 225px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.emma-jones {
+  margin: 0;
+  align-self: stretch;
+  height: 76px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frame-emma-jones {
+  width: 308px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xl) 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  min-width: 307px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+}
+.frame-david-lee-parent,
+.frame-frame-container-child {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  max-width: 100%;
+}
+.frame-david-lee-parent {
+  width: 1176px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-frame-container-child {
+  align-self: stretch;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.we-were-hesitant {
+  margin: 0;
+  height: 364px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 490px;
+  max-width: 100%;
+}
+.davidlee-icon2,
+.davidlee-icon3 {
+  height: 225px;
+  width: 225px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  min-height: 225px;
+}
+.davidlee-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-xl);
+}
+.john-and-mary {
+  margin: 0;
+  width: 307px;
+  height: 76px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frame-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-15xl);
+  min-width: 470px;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+}
+.frame-div,
+.we-were-hesitant-to-file-a-law-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+}
+.we-were-hesitant-to-file-a-law-parent {
+  width: 1294px;
+  padding: var(--padding-3xs) 30px;
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.frame-div {
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.shadow-icon4 {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(3.716);
+}
+.wrapper-shadow4 {
+  height: 40px;
+  width: 1099.2px;
+  position: absolute;
+  margin: 0 !important;
+  right: -171.1px;
+  bottom: -12.9px;
+  border-radius: var(--br-11xs);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.subscribe-newsletter5 {
+  margin: 0;
+  height: 36px;
+  width: 145px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.enter-your-email4,
+.subcribe-now4,
+.subscribe-newsletter5 {
+  position: relative;
+  display: inline-block;
+}
+.enter-your-email4 {
+  height: 19px;
+  width: 115.9px;
+  mix-blend-mode: normal;
+}
+.subcribe-now4 {
+  align-self: stretch;
+  width: 61px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-dm-sans);
+  color: var(--white);
+  text-align: center;
+}
+.input-field5,
+.subscribbe-now4 {
+  border-radius: var(--br-9xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  box-sizing: border-box;
+}
+.subscribbe-now4 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base);
+  background-color: var(--lift-blue);
+  height: 53px;
+  width: 137px;
+  justify-content: center;
+  z-index: 1;
+}
+.subscribbe-now4:hover {
+  background-color: var(--color-dodgerblue-100);
+}
+.input-field5 {
+  flex: 1;
+  background-color: var(--white);
+  justify-content: space-between;
+  padding: var(--padding-4xs) var(--padding-22xl) var(--padding-4xs)
+    var(--padding-5xl);
+  min-width: 253px;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-helvetica-neue);
+}
+.frame-wrapper1,
+.subscribe4,
+.wrapper-shadow-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.subscribe4 {
+  flex: 1;
+  border-radius: 9.99px;
+  background-color: var(--dark);
+  flex-wrap: wrap;
+  align-items: center;
+  padding: var(--padding-45xl) var(--padding-74xl) var(--padding-44xl)
+    var(--padding-73xl);
+  box-sizing: border-box;
+  gap: var(--gap-47xl);
+  z-index: 1;
+}
+.frame-wrapper1,
+.wrapper-shadow-container {
+  align-items: flex-start;
+}
+.wrapper-shadow-container {
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper1 {
+  width: 1015px;
+  padding: 0 var(--padding-30xl);
+  box-sizing: border-box;
+}
+.about-us4 {
+  width: 69px;
+  cursor: pointer;
+}
+.about-us4,
+.books4,
+.discover4,
+.explore4 {
+  height: 21px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+}
+.discover4 {
+  width: 107px;
+  cursor: pointer;
+}
+.books4,
+.explore4 {
+  width: 97px;
+}
+.books4 {
+  width: 67px;
+}
+.about-us-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-57xl);
+  max-width: 100%;
+}
+.facebook-black-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.twitter-black-icon4 {
+  height: 20px;
+  width: 24px;
+  position: relative;
+}
+.vimeo-black-icon4,
+.youtube-black-icon4 {
+  height: 21px;
+  width: 24px;
+  position: relative;
+}
+.youtube-black-icon4 {
+  height: 17px;
+  object-fit: cover;
+}
+.facebook-black-parent {
+  width: 216px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.social-media-icons3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  font-size: var(--font-size-base);
+  color: var(--dark);
+}
+.frame-child {
+  width: 1072.3px;
+  position: relative;
+  max-height: 100%;
+  mix-blend-mode: normal;
+  max-width: 100%;
+}
+.line-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.copyright4 {
+  height: 18px;
+  width: 209px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.terms-of-service8,
+.terms-of-service9 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+}
+.terms-of-service8 {
+  flex: 1;
+}
+.terms-of-service9 {
+  width: 92px;
+  display: inline-block;
+}
+.terms-of-service-pri-parent {
+  height: 18px;
+  width: 232px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-10xl);
+  color: var(--dark);
+}
+.copyright-info,
+.line {
+  align-items: flex-start;
+  max-width: 100%;
+}
+.copyright-info {
+  width: 699px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+}
+.line {
+  width: 1124px;
+  gap: var(--gap-10xl);
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-600);
+}
+.frame-frame-container,
+.frame-parent1,
+.line,
+.testomonies {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent1 {
+  width: 1175px;
+  align-items: flex-start;
+  gap: var(--gap-29xl);
+  max-width: 100%;
+  font-size: var(--font-size-9xl);
+  color: var(--white);
+  font-family: var(--font-dm-sans);
+}
+.frame-frame-container,
+.testomonies {
+  box-sizing: border-box;
+}
+.frame-frame-container {
+  align-self: stretch;
+  height: 1286px;
+  overflow-y: auto;
+  flex-shrink: 0;
+  align-items: center;
+  padding: var(--padding-21xl) 67px 0 var(--padding-47xl);
+  gap: var(--gap-98xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-crimson-text);
+}
+.testomonies {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-seashell);
+  overflow: hidden;
+  align-items: flex-start;
+  padding: 0 0 1367px;
+  gap: var(--gap-20xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .after-my-car-accident-i-was-l-wrapper,
+  .sarahmiller-parent {
+    flex: 1;
+  }
+  .input-field-subscription {
+    flex-wrap: wrap;
+  }
+  .davidlee-parent,
+  .the-insurance-company {
+    flex: 1;
+  }
+  .the-insurance-company-tried-to-parent {
+    flex-wrap: wrap;
+  }
+  .frame-david-lee,
+  .frame-emma-jones {
+    flex: 1;
+  }
+  .frame-david-lee-parent {
+    flex-wrap: wrap;
+  }
+  .frame-frame-container-child {
+    gap: var(--gap-76xl);
+  }
+  .frame-container {
+    flex: 1;
+  }
+  .we-were-hesitant-to-file-a-law-parent {
+    flex-wrap: wrap;
+  }
+  .frame-frame-container {
+    height: auto;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .after-my-car-accident-i-was-l-wrapper,
+  .frame-david-lee,
+  .the-insurance-company {
+    min-width: 100%;
+  }
+  .subscribe4 {
+    gap: var(--gap-47xl);
+    padding-left: var(--padding-27xl);
+    padding-right: var(--padding-27xl);
+    box-sizing: border-box;
+  }
+  .frame-wrapper1 {
+    padding-left: var(--padding-5xl);
+    padding-right: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+  .social-media-icons3 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .services-group {
+    display: none;
+  }
+  .frame-header {
+    padding-left: var(--padding-12xl);
+    padding-right: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+  .testomonies1 {
+    font-size: var(--font-size-32xl);
+  }
+  .after-my-car {
+    font-size: var(--font-size-13xl);
+  }
+  .sarah-miller {
+    font-size: var(--font-size-10xl);
+  }
+  .the-insurance-company {
+    font-size: var(--font-size-13xl);
+  }
+  .david-lee {
+    font-size: var(--font-size-10xl);
+  }
+  .the-legal-process {
+    font-size: var(--font-size-13xl);
+  }
+  .emma-jones {
+    font-size: var(--font-size-10xl);
+  }
+  .frame-frame-container-child {
+    gap: var(--gap-76xl);
+  }
+  .we-were-hesitant {
+    font-size: var(--font-size-13xl);
+    min-width: 100%;
+  }
+  .davidlee-group {
+    flex-wrap: wrap;
+  }
+  .john-and-mary {
+    font-size: var(--font-size-10xl);
+  }
+  .frame-container {
+    gap: var(--gap-15xl);
+    min-width: 100%;
+  }
+  .frame-div {
+    gap: var(--gap-76xl);
+  }
+  .input-field5 {
+    flex-wrap: wrap;
+  }
+  .about-us-parent {
+    flex-wrap: wrap;
+    gap: var(--gap-57xl);
+  }
+  .copyright-info {
+    flex-wrap: wrap;
+  }
+  .frame-parent1 {
+    gap: var(--gap-29xl);
+  }
+  .frame-frame-container {
+    gap: var(--gap-98xl);
+    padding-left: var(--padding-14xl);
+    padding-right: var(--padding-14xl);
+    box-sizing: border-box;
+  }
+  .testomonies {
+    gap: var(--gap-20xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .testomonies1 {
+    font-size: var(--font-size-19xl);
+  }
+  .after-my-car {
+    font-size: var(--font-size-5xl);
+  }
+  .sarah-miller {
+    font-size: var(--font-size-3xl);
+  }
+  .the-insurance-company {
+    font-size: var(--font-size-5xl);
+  }
+  .david-lee {
+    font-size: var(--font-size-3xl);
+  }
+  .the-legal-process {
+    font-size: var(--font-size-5xl);
+  }
+  .emma-jones {
+    font-size: var(--font-size-3xl);
+  }
+  .we-were-hesitant {
+    font-size: var(--font-size-5xl);
+  }
+  .john-and-mary {
+    font-size: var(--font-size-3xl);
+  }
+  .frame-div {
+    gap: var(--gap-76xl);
+  }
+  .subscribe-newsletter5 {
+    font-size: var(--font-size-3xl);
+  }
+  .subscribe4 {
+    gap: var(--gap-47xl);
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .about-us-parent {
+    gap: var(--gap-57xl);
+  }
+  .frame-frame-container {
+    gap: var(--gap-98xl);
+  }
+}
